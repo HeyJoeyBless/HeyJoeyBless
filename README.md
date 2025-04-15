@@ -1,4 +1,4 @@
-## Hi there  Im Joey 👋
+## Joey Bless here, Take a look at my profile!
 
 - 🔭 I’m currently a jounior dev in Apple IOS Devices like the Iphone and Apple TV
 - 🌱 I’m currently learning swift, python, and C++ coding skills
